@@ -3,6 +3,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "esnext",
+    "jsx": "react-jsx", 
     "moduleResolution": "Node",
     "esModuleInterop": true,
     "sourceMap": true,
